@@ -1,5 +1,5 @@
 
-# Sentiment Analysis with KNN
+# Text Analysis with KNN
 ## KNN
 ```
 The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning algorithm that can be used to solve both
